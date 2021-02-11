@@ -1,5 +1,6 @@
 ### Php de yardımcı olacak fonksiyonlar bu alana eklenecektir.
 
-Liste:
+:fa-star: İçerik:
 
--unset($degisken)
+- unset($degisken)
+- var_export($degisken)
