@@ -1,0 +1,2 @@
+- Form kısmı tamamen kullanıcıya bağlıdır.
+- PhpMailer dosyasını index.php dosya dizinine kaydet.
